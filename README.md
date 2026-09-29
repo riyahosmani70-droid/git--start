@@ -1,1 +1,10 @@
-#My Git Practice 
+\#My Git Practice
+
+\## Skills I'm Learning
+
+
+
+\- Git
+
+\- GitHub
+
